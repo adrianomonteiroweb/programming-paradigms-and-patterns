@@ -1,4 +1,4 @@
-const ConfigManager = require("../ConfigManager");
+const ConfigManager = require("./ConfigManager");
 
 const config1 = ConfigManager.getInstance();
 const config2 = ConfigManager.getInstance();
